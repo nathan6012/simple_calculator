@@ -37,5 +37,10 @@ while True:
   elif operators =="-":
     print("answer",sub(num1,num2))
     print()
+  else:
+    print("invalid input")
+
+# End 
+
 
   
